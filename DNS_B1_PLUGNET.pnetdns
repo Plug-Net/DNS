@@ -1,6 +1,4 @@
 COMMENT>Copyright Plugnet 2020©, https://github.com/Plug-net
-COMMENT>Edits:
-COMMENT>Plugner (12/24/2020)
 COMMENT>IND = Index (Start of DNS)
 COMMENT>DEF = Set variable to proxy recognize.
 COMMENT>END = End of DNS
