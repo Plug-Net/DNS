@@ -8,5 +8,4 @@ DEF>InternalNetName:Plugnet
 DEF>ListDomain:pnet
 END
 COMMENT>Use $ to divide args.
-SetURL>google$https://google.com/
 SetURL>example$http://example.org/
